@@ -1,2 +1,2 @@
 # Instagram
-Log in
+Log in on Instagram
